@@ -9,7 +9,7 @@
         }
     },
     "require": {
-        "php": "^8.0",
+      "php": ">=7.4 <9.0",
         "spatie/typescript-transformer": "^2.4",
         "phpdocumentor/reflection-docblock": "^5.6"
     },
